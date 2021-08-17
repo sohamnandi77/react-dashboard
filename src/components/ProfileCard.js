@@ -1,9 +1,9 @@
 import React from "react";
-import BTC from "./BTC";
-import ETH from "./ETH";
-import Dollar from "./Dollar";
-import GreyTag from "./GreyTag";
-import CardTop from "./CardTop";
+import BTC from "./shared/BTC";
+import ETH from "./shared/ETH";
+import Dollar from "./shared/Dollar";
+import GreyTag from "./shared/GreyTag";
+import CardTop from "./shared/CardTop";
 
 export default function ProfileCard({
   imgUrl,

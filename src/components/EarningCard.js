@@ -1,10 +1,10 @@
 import React from "react";
-import ETH from "./ETH";
-import BTC from "./BTC";
-import Dollar from "./Dollar";
-import CardTitle from "./CardTitle";
+import ETH from "./shared/ETH";
+import BTC from "./shared/BTC";
+import Dollar from "./shared/Dollar";
+import CardTitle from "./shared/CardTitle";
 
-export default function Earning() {
+export default function EarningCard() {
   return (
     <div className="card earning">
       <div className="m-3">

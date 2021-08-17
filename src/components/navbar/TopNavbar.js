@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header(props) {
+export default function TopNavbar() {
   return (
     <div className="nav-header">
       <div className="round-logo"></div>
@@ -21,5 +21,3 @@ function Header(props) {
     </div>
   );
 }
-
-export default Header;

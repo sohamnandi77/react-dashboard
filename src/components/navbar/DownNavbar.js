@@ -1,7 +1,7 @@
 import React from "react";
 import Navlink from "./Navlink";
 
-export default function navbar() {
+export default function DownNavbar() {
   return (
     <nav className="navbar navbar-expand-sm m-0 my-sm-5">
       <div className="container-fluid">

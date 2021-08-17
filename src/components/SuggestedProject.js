@@ -1,10 +1,10 @@
 import React from "react";
-import CardNav from "./CardNav";
+import CardNav from "./shared/CardNav";
 import ProfileCard from "./ProfileCard";
 
-export default function Level2() {
+export default function SuggestedProject() {
   return (
-    <div className="level-2 mt-5">
+    <div className="mt-5">
       <CardNav title="Suggested Projects" text="view all projects" />
       <div className="row mt-3">
         <div className="col-sm-4 col-12 mb-sm-0 mb-3">

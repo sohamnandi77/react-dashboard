@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Level3() {
+export default function SlackCard() {
   return (
     <div className="level-3 mt-5">
       <div className="py-4 px-4 py-sm-3 px-sm-5">

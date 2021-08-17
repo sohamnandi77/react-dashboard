@@ -1,5 +1,5 @@
 import React from "react";
-import CardTop from "./CardTop";
+import CardTop from "./shared/CardTop";
 export default function UserRanking({
   backgroundColor,
   imgUrl,
