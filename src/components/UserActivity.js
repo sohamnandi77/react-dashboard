@@ -1,7 +1,7 @@
 import React from "react";
-import CardTop from "./CardTop";
-import Tag from "./Tag";
-import Dollar from "./Dollar";
+import CardTop from "../shared/CardTop";
+import Tag from "../shared/Tag";
+import Dollar from "../shared/Dollar";
 
 export default function UserActivity({
   symbol,

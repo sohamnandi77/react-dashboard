@@ -1,5 +1,5 @@
 import React from "react";
-import CardTitle from "./CardTitle";
+import CardTitle from "./shared/CardTitle";
 
 export default function CardHead({ head, img, num }) {
   return (
