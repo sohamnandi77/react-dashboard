@@ -7,7 +7,7 @@ export default function Level2() {
     <div className="level-2 mt-5">
       <CardNav title="Suggested Projects" text="view all projects" />
       <div className="row mt-3">
-        <div className="col-sm-4 col-12">
+        <div className="col-sm-4 col-12 mb-sm-0 mb-3">
           <ProfileCard
             imgUrl="user-1"
             backgroundColor="#FFD7AB"
@@ -20,7 +20,7 @@ export default function Level2() {
             dollar="760"
           />
         </div>
-        <div className="col-sm-4 col-12">
+        <div className="col-sm-4 col-12 mb-sm-0 mb-3">
           <ProfileCard
             imgUrl="user-2"
             backgroundColor="#FFABAB"
@@ -33,7 +33,7 @@ export default function Level2() {
             dollar="3360"
           />
         </div>
-        <div className="col-sm-4 col-12">
+        <div className="col-sm-4 col-12 mb-sm-0 mb-3">
           <ProfileCard
             imgUrl="user-3"
             backgroundColor="#BCD0E7"

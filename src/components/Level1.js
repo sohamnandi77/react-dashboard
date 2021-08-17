@@ -7,10 +7,10 @@ export default function Level1() {
     <>
       <div className="level-1 mt-5">
         <div className="row">
-          <div className="col-sm-8 col-12 mb-sm-3 mb-0">
+          <div className="col-sm-8 col-12 mb-sm-0 mb-3">
             <Earning />
           </div>
-          <div className="col-sm-4 col-12 mb-sm-3 mb-0">
+          <div className="col-sm-4 col-12">
             <Rank />
           </div>
         </div>

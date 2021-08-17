@@ -11,8 +11,10 @@ function App() {
     <div className="App">
       <div className="blue-bg"></div>
       <div className="container-lg main">
-        <Header />
-        <Navbar />
+        <div className="top-nav">
+          <Header />
+          <Navbar />
+        </div>
         <Level1 />
         <Level2 />
         <Level3 />

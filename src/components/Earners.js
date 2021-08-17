@@ -4,7 +4,7 @@ import UserRanking from "./UserRanking";
 
 export default function Earners() {
   return (
-    <div style={{ height: "100%" }}>
+    <div style={{ height: "91.8%" }}>
       <div className="card">
         <div className="m-3">
           <div className="card-head mb-3">
